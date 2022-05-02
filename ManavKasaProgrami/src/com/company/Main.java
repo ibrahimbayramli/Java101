@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        // Patika JAVA 101
 
         final float a = 2.14f;
         final float e = 3.67f;
