@@ -39,7 +39,11 @@ public class Main {
         users.put(u2,d2);
         users.put(u3,d3);
 
-        String result=users.get(u1).password;
+        User u4 = new User();
+        u4.name="Bora";
+        u4.surName="Bayramli";
+
+        String result=users.get(u4).password;
         System.out.println(result);
 
     }
