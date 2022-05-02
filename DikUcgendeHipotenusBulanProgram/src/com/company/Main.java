@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
-
+    // Patika JAVA 101
     public static void main(String[] args) {
     Scanner scan=new Scanner(System.in);
     System.out.print("Ucgenin 1. kenarini giniz: ");
