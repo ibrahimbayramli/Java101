@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        // Patika JAVA 101
         Scanner scan=new Scanner(System.in);
 
 	    System.out.print("Ürün tutarini giriniz: ");
