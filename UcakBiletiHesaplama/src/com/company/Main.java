@@ -22,7 +22,7 @@ public class Main {
             if(yas<12){
                 indirimliTutar=biletFiyati*0.5d;
             }
-            else if(yas>12 && yas<24){
+            else if((yas>12) && (yas<24)){
                 indirimliTutar=biletFiyati*0.9d;
             }
             else if(yas>65){
@@ -31,6 +31,7 @@ public class Main {
             }
             if(yolculukTipi==2){
                 indirimliTutar*=0.8d;
+                indirimliTutar*=2;
             }
             if(indirimliTutar==0) indirimliTutar=biletFiyati;
 
