@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebaf807d-863e-4b0d-8701-4ed49b82acdd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ArmstrongSayi/ArmstrongSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArtikYilHesaplma/ArtikYilHesaplma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atm/Atm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BurcHesaplama/BurcHesaplama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CiftSayiBulma/CiftSayiBulma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CinZodyagıHesaplama/CinZodyagıHesaplama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DaireninAlaniVeCevresiniHesaplayanProgram/DaireninAlaniVeCevresiniHesaplayanProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desen/Desen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DikUcgendeHipotenusBulanProgram/DikUcgendeHipotenusBulanProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciRecursive/FibonacciRecursive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HarmonikSeri/HarmonikSeri.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HavaSicakligi/HavaSicakligi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HesapMakinesiProgrami/HesapMakinesiProgrami.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IsimlendirmeKurallari/IsimlendirmeKurallari.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KDVTutarHesaplamaProgrami/KDVTutarHesaplamaProgrami.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kombinasyon/Kombinasyon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KuvvetHesaplama/KuvvetHesaplama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MapDemo/MapDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinMax/MinMax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MukemmelSayi/MukemmelSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotHesaplamaProjesi/NotHesaplamaProjesi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveAsalSayi/RecursiveAsalSayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveMetod/RecursiveMetod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursivePower/RecursivePower.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SayiSiralama/SayiSiralama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SinifGecmeNotu/SinifGecmeNotu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TaksimetreHesaplayanProgram/TaksimetreHesaplayanProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TekSayilar/TekSayilar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TersUcgen/TersUcgen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UcakBiletiHesaplama/UcakBiletiHesaplama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VucutKitleIndeksiHesaplayanProgram/VucutKitleIndeksiHesaplayanProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yildiz/Yildiz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YorumSatiri/YorumSatiri.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ARsCVDtL5cjayJ6ZfmR4spDEia" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebaf807d-863e-4b0d-8701-4ed49b82acdd" name="Changes" comment="" />
+      <created>1654983609095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654983609095</updated>
+      <workItem from="1654983613484" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
