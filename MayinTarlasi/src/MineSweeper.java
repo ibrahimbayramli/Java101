@@ -13,7 +13,7 @@ public class MineSweeper {
         this.colNumber = colNumber;
         this.minedMap = new String[rowNumber][colNumber];
         this.game = new String[rowNumber][colNumber];
-        this.mineNumber = (rowNumber * colNumber) / 4;
+        this.mineNumber = (int)(rowNumber * colNumber) / 4;
 
     }
 
